@@ -25,7 +25,7 @@ import javax.activation.*;
 
 /**
  *
- * @author  Shail khan
+ * @author  Shahil khan
  */
 public class MainForm extends javax.swing.JFrame 
         implements IEnrollmentCallBack , IVerificationCallBack, IIdentificationCallBack
